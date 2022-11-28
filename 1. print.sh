@@ -8,3 +8,4 @@ echo "Hello world"
 # 0m - Disable the enable colour
 
 echo -e "\e[31mHELLOWORLD in Red Colour\e[0m"
+
