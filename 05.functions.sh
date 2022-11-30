@@ -10,5 +10,5 @@ SAMPLE() {
 
 # main program
 a=10
-SAMPLE abc
+SAMPLE
 echo b - $b
