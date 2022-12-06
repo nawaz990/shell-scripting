@@ -5,3 +5,7 @@ while [ $a -lt 5 ]; do
      sleep 1
    done
 
+for fruit in apple banana orange mango ; do
+  echo Fruit Name - $fruit
+done
+
